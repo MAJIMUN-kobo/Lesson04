@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Assets which should be ignored
+/Assets/Photon/
+/Release/
+/Assets/TextMesh Pro/
+/Assets/GUI PRO Kit - Casual Game/
